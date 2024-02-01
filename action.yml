@@ -1,0 +1,6 @@
+name: Fetch Random Quote
+description: An action that fetches a random quote from an API.
+
+runs: 
+  using: node20
+  main: index.js
